@@ -1,0 +1,18 @@
+version: 1
+
+project:
+  id: 896ca726-7583-46cd-82bf-1e1eafb28861
+  title: KGG375 GIS Project
+
+  toc:
+    - file: index.md
+
+    - title: Project
+      children:
+        - file: methods.md
+        - file: results.md
+        - file: discussion.md
+        - file: conclusion.md
+
+site:
+  template: book-theme
